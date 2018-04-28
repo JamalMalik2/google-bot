@@ -1,0 +1,2 @@
+# google-bot
+bot
